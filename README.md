@@ -174,16 +174,6 @@ timeline
 
 ---
 
-## 🌌 3D Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ayush91dubey/ayush91dubey/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="95%" />
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
