@@ -40,17 +40,17 @@ I am a third-year Computer Science student who turns ideas into working products
 
 | Field | Value |
 |:--|:--|
-| 🎓 **Studying** | Computer Science & Engineering, 3rd year |
+| 🎓 **Studying** | PSIT (Computer Science & Engineering, 3rd year) |
 | 📍 **Base** | Kanpur, Uttar Pradesh, India |
 | 🌱 **Learning** | System design, LLM-powered applications |
-| 💬 **Ask me about** | React, Node.js, FastAPI, Gemini API, LeetCode patterns |
+| 💬 **Ask me about** | React, Node.js, FastAPI,SQL,Java,Python,LLM's|
 | ⚡ **Seeking** | Internships in software development and AI/ML |
 
 </details>
 
----
 
-tech_stack
+
+
 
 <div align="center">
 
@@ -88,9 +88,7 @@ tech_stack
 
 </div>
 
----
 
-projects --featured
 
 <div align="center">
 
@@ -206,7 +204,7 @@ timeline
 
 ---
 
-stats
+
 
 <div align="center">
 
@@ -239,7 +237,7 @@ stats
 
 </div>
 
----
+
 
 
 
@@ -250,9 +248,7 @@ stats
 | 🤖 **Explore** | Applied AI: RAG pipelines, LLM tools and agent-based systems |
 | 🏆 **Compete** | Hackathons and open challenges |
 
----
 
-connect 
 
 I am open to internships, collaborations, and hackathon teams. If you are hiring or building something interesting, send a packet my way.
 
