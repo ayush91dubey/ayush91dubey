@@ -190,7 +190,7 @@ flowchart TB
 
 ---
 
-## `>_ cat ./certifications`
+certifications
 
 <div align="center">
 
@@ -245,7 +245,7 @@ stats
 
 ---
 
-snake --eat-contributions
+
 
 <div align="center">
 
@@ -270,7 +270,7 @@ current_focus
 
 ---
 
-## `>_ ./connect --open`
+connect 
 
 I am open to internships, collaborations, and hackathon teams. If you are hiring or building something interesting, send a packet my way.
 
