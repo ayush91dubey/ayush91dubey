@@ -170,20 +170,6 @@ flowchart TB
 
 </details>
 
----
-
-certifications
-
-<div align="center">
-
-![Oracle OCI 2025](https://img.shields.io/badge/Oracle-OCI%202025-0f2a17?style=for-the-badge&logo=oracle&logoColor=00ff41&labelColor=0f2a17)
-![HackerRank Java](https://img.shields.io/badge/HackerRank-Java%205%E2%98%85-0f2a17?style=for-the-badge&logo=hackerrank&logoColor=00ff41&labelColor=0f2a17)
-![HackerRank Problem Solving](https://img.shields.io/badge/HackerRank-Problem%20Solving%205%E2%98%85-0f2a17?style=for-the-badge&logo=hackerrank&logoColor=00ff41&labelColor=0f2a17)
-![Microsoft DevOps](https://img.shields.io/badge/Microsoft-DevOps-0f2a17?style=for-the-badge&logo=microsoft&logoColor=00ff41&labelColor=0f2a17)
-
-</div>
-
----
 
  git journey
 
