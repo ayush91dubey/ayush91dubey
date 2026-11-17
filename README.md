@@ -25,16 +25,11 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayush91dubey&label=VIEWS&color=00ff41&style=flat-square&labelColor=0d1117)
-![Followers](https://img.shields.io/github/followers/ayush91dubey?style=flat-square&color=00ff41&logo=github&labelColor=0d1117)
-![Public Repos](https://img.shields.io/github/search/repositories?query=user%3Aayush91dubey&label=repos&style=flat-square&color=00ff41&labelColor=0d1117)
-![Status](https://img.shields.io/badge/status-open%20to%20internships-00ff41?style=flat-square&labelColor=0d1117)
+
 
 </div>
 
----
 
-## `>_ whoami`
 
 ```js
 const ayush = {
@@ -71,7 +66,7 @@ I am a third-year Computer Science student who turns ideas into working products
 
 ---
 
-## `>_ ls ./tech_stack`
+tech_stack
 
 <div align="center">
 
@@ -111,7 +106,7 @@ I am a third-year Computer Science student who turns ideas into working products
 
 ---
 
-## `>_ ./projects --featured --live`
+projects --featured
 
 <div align="center">
 
@@ -208,7 +203,7 @@ flowchart TB
 
 ---
 
-## `>_ git log --journey`
+ git log --journey
 
 ```mermaid
 timeline
@@ -227,7 +222,7 @@ timeline
 
 ---
 
-## `>_ ./stats --live`
+stats
 
 <div align="center">
 
@@ -250,7 +245,7 @@ timeline
 
 ---
 
-## `>_ ./snake --eat-contributions`
+snake --eat-contributions
 
 <div align="center">
 
@@ -264,7 +259,7 @@ timeline
 
 ---
 
-## `>_ cat ./current_focus`
+current_focus
 
 | Goal | Focus area |
 |:--|:--|
