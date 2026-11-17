@@ -31,22 +31,6 @@
 
 
 
-```js
-const ayush = {
-  name: "AYUSH_DUBEY",
-  role: "Full-Stack & AI Builder",
-  education: "B.Tech CSE (2024 - 2028), PSIT Kanpur",
-  location: "Kanpur, Uttar Pradesh, India",
-  focus: ["Full-Stack Development", "Generative AI / RAG", "DSA"],
-  currentlyLearning: ["System Design", "LLM Applications"],
-  lookingFor: "Software / AI-ML internships",
-  achievements: [
-    "Smart India Hackathon Finalist (AgriTradeHub)",
-    "Top 50 Finalist, Policy Conclave 2026 (IIT Kanpur)"
-  ],
-  motto: "Let's build."
-};
-```
 
 I am a third-year Computer Science student who turns ideas into working products: full-stack web apps, LLM-powered tools, and clean solutions to hard problems. I like projects that real people can open, use, and benefit from, which is why every project below has a live link.
 
@@ -113,7 +97,7 @@ projects --featured
 <table width="100%">
   <tr>
     <td>
-      <h3>🌾 AgriTradeHub <sub><code>SIH FINALIST</code></sub></h3>
+      <h3>AgriTradeHub <sub><code>SIH FINALIST</code></sub></h3>
       <i>Full-stack agricultural platform connecting farmers directly to consumers</i>
       <br/><br/>
       <a href="https://agritradehub.in"><img src="https://img.shields.io/badge/%E2%96%B6%20LIVE%20DEMO-agritradehub.in-0f2a17?style=for-the-badge&labelColor=0f2a17&color=00ff41" alt="Live demo" /></a>
@@ -129,7 +113,7 @@ projects --featured
   </tr>
   <tr>
     <td>
-      <h3>🎬 Thumblify-AI <sub><code>MERN + GEMINI</code></sub></h3>
+      <h3> Thumblify-AI <sub><code>MERN + GEMINI</code></sub></h3>
       <i>AI thumbnail generator that turns a video idea into a ready-to-use YouTube thumbnail</i>
       <br/><br/>
       <a href="https://client-ten-pi-33.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20LIVE%20DEMO-client--ten--pi--33.vercel.app-0f2a17?style=for-the-badge&labelColor=0f2a17&color=00ff41" alt="Live demo" /></a>
@@ -203,7 +187,7 @@ certifications
 
 ---
 
- git log --journey
+ git journey
 
 ```mermaid
 timeline
@@ -226,8 +210,7 @@ stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayush91dubey&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=1f6f2e" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush91dubey&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=1f6f2e" alt="Top languages" />
+
 
 <br/>
 
@@ -235,7 +218,6 @@ stats
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ayush91dubey&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
 
 <br/>
 
@@ -243,7 +225,7 @@ stats
 
 </div>
 
----
+
 
 
 
@@ -259,7 +241,7 @@ stats
 
 ---
 
-current_focus
+
 
 | Goal | Focus area |
 |:--|:--|
